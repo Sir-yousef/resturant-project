@@ -1,0 +1,132 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and  (max-width: 600px) {
+    .sm-25
+    {
+        width:25% ;
+    }
+    .sm-100
+    {
+        width:100% ;
+    }
+    .sm-70
+    {
+        width: 70%;
+    }
+    .sm-50
+    {
+        width: 50%;
+    }
+    .sm-33
+    {
+        width: 33%;
+    }
+    
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .md-left{
+        float: left;
+    }
+    .md-right
+    {
+        float: right;
+    }
+    
+    .md-25
+    {
+        width:25% ;
+    }
+    .md-100
+    {
+        width:100% ;
+    }
+    .md-70
+    {
+        width: 70%;
+    }
+    .md-50
+    {
+        width: 50%;
+    }
+    .md-33
+    {
+        width: 33%;
+    }
+    
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .lg-25
+    {
+        width:25% ;
+    }
+    .lg-100
+    {
+        width:100% ;
+    }
+    .lg-70
+    {
+        width: 70%;
+    }
+    .lg-50
+    {
+        width: 50%;
+    }
+    .lg-33
+    {
+        width: 33%;
+    }
+    
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .xl-25
+    {
+        width:25% ;
+    }
+    .xl-100
+    {
+        width:100% ;
+    }
+    .xl-70
+    {
+        width: 70%;
+    }
+    .xl-50
+    {
+        width: 50%;
+    }
+    .xl-33
+    {
+        width: 33%;
+    }
+
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .xxl-25
+    {
+        width:25% ;
+    }
+    .xxl-100
+    {
+        width:100% ;
+    }
+    .xxl-70
+    {
+        width: 70%;
+    }
+    .xxl-50
+    {
+        width: 50%;
+    }
+    .xxl-33
+    {
+        width: 33%;
+    }
+    
+  }
